@@ -1,0 +1,77 @@
+ body{background-image:url(../image/images6.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;}
+.container{background-color: coral;
+    width:62%;
+    height:68vh;
+    margin:auto;
+    margin-top: 4.5%;
+    border:coral;
+    border-radius:35px; 
+}
+ .W{font-size: 20px;
+    color: white;
+    margin-left: 22rem;
+    padding-top: 1.5rem
+}
+.form-control1{width:90%;
+    height: 6vh;
+    margin-top: 10%;
+    border:2px solid red;
+    border-radius: 2rem;
+}
+.form-control2{width: 98%;
+    height: 6vh;
+    margin-top: 13.6%;
+    border:2px solid red;
+    margin-left:-43%;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem
+}
+.form-control3{width:150%;
+    height: 6vh;
+    margin-top: 10%;
+    margin-left: -33%;
+    border:2px solid red;
+    border-radius: 2rem;
+}
+.form-control4{width:121%;
+    height: 6vh;
+    margin-top: -4%;
+    border:2px solid red;
+    border-radius: 2rem;
+}
+.form-control5{width:117%;
+    height: 6vh;
+    margin-top: -4%;
+    margin-left:-25%;
+    border:2px solid red;
+    border-radius: 2rem;
+}
+.form-control6{width:121%;
+    height: 6vh;
+    margin-top:-15rem;
+    border:2px solid red;
+    border-radius: 2rem;
+}
+.custom-control-input3{margin-left: 8rem
+}
+.G{margin-top: -0.5rem;
+    margin-left: 5rem
+}
+.custom-control-input2{margin-left: 3rem
+}
+.custom-control-input1{margin-left: 3rem
+}
+.btn1{margin-left: 20rem;
+border-radius: 1.5rem;
+outline: none;
+}
+.btn2{border-radius: 1.5rem;
+    outline: none;
+}
+.btn3{margin-left: 38rem;
+    border-radius: 1.5rem;
+    margin-top: 2rem;
+    outline: none; 
+ }
